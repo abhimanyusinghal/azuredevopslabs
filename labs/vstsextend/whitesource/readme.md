@@ -28,7 +28,7 @@ Azure DevOps integration with Mend Bolt will enable you to:
 
 1. Refer the [Getting Started](../Setup/) page before you follow the exercises.
 
-1. Use [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/?name=WhiteSource-Bolt&templateid=77362){:target="_blank"} to provision the WhiteSource project on your Azure DevOps Organization.
+
 
 ## Exercise 1: Activate Mend Bolt
 
@@ -38,6 +38,9 @@ Ensure the following:
 1. Your Azure DevOps organization is connected to an Azure AD via **Organization Settings > Azure Active Directory**.
     
       ![ADO-ADConnect](images/ADO-ADConnect.png)
+      
+1. Use [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/?name=WhiteSource-Bolt&templateid=77362){:target="_blank"} to provision the WhiteSource project on your Azure DevOps Organization.
+
 1. In your Azure DevOps navigate to **Organization Settings** and select **Mend** under Extensions. Provide your Work Email, Company Name and other details and click **Create Account** button to start using the Free version.
 
 
